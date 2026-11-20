@@ -31,8 +31,11 @@ https://raw.githubusercontent.com/saeed-jalilian/shadowrocket-iran/main/shadowro
 <div dir="rtl">
 
 ۲. در Shadowrocket به تب **Config** بروید، روی **+** بزنید، لینک را paste کنید و **Download** را بزنید.
+
 ۳. روی کانفیگ دانلودشده بزنید و **Use Config** را انتخاب کنید.
+
 ۴. در صفحه‌ی اصلی، **Global Routing** را روی **Config** بگذارید.
+
 ۵. در تب Config بخش Rules را باز کنید و مطمئن شوید همه‌ی لیست‌های ریموت دانلود شده‌اند.
 
 > نکته: `raw.githubusercontent.com` و دانلودهای `github.com` در بعضی شبکه‌های ایران فیلتر هستند. دانلود و بروزرسانی را وقتی انجام دهید که به پروکسی وصل هستید.
@@ -88,6 +91,7 @@ https://raw.githubusercontent.com/saeed-jalilian/shadowrocket-iran/main/shadowro
 اگر سایتی لود نشد:
 
 ۱. در تب **Data**، Proxy Log را روشن کنید و سایت را دوباره باز کنید.
+
 ۲. ببینید دامنه با کدام قانون مچ شده است:
 
 | نتیجه‌ی لاگ | علت محتمل | راه‌حل |
